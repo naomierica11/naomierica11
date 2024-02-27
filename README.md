@@ -1,5 +1,5 @@
 ### Hi there👋
-## Perkenalkan
+## Profil Naomi Erica
 Saya Naomi Erica, seorang mahasiswi semester 2 di Politeknik Negeri Bandung. Berikut adalah sedikit informasi tentang saya:
 
 ## Beberapa teknologi yang saya kuasai meliputi:
