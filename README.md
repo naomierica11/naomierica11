@@ -13,6 +13,13 @@
 
 - ⚡ Fun fact **saya lebih memilih untuk menyiksa fisik daripada harus menyiksa pikiran dan hati**
 
+## Proyek dan Kontribusi
+Saya telah berkontribusi pada proyek yang mengembangkan game Tic Tac Toe menggunakan bahasa C di Dev C++. Proyek ini melibatkan pemahaman logika permainan dan implemantasi algoritma sederhana. Beberapa highlight termasuk:
+- Desain papan permainan.
+- Logika permainan.
+- Tampilan UI.
+- Pengujian program.
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
