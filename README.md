@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, saya Naomi Erica</h1>
 <h3 align="center">Seorang mahasiswa Teknik Informatika di Politeknik Negeri Bandung</h3>
 
-- 🌱 Saat ini saya sedang belajar **Database**
+- 🌱 Saat ini saya sedang belajar **Pemrogramann**
 
-- 👯 Saya ingin berkolaborasi dalam **Game Development**
+- 👯 Saya ingin berkolaborasi dalam **Database**
 
 - 🤝 Saya mencari bantuan dengan **Framework and NLP**
 
