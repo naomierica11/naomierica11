@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, saya Naomi Erica</h1>
 <h3 align="center">Seorang mahasiswa Teknik Informatika di Politeknik Negeri Bandung</h3>
 
-- 🌱 I’m currently learning **Database**
+- 🌱 Saat ini saya sedang belajar **Database**
 
-- 👯 I’m looking to collaborate on **Game Development**
+- 👯 Saya ingin berkolaborasi dalam **Game Development**
 
-- 🤝 I’m looking for help with **Framework and NLP**
+- 🤝 Saya mencari bantuan dengan **Framework and NLP**
 
-- 💬 Ask me about **Microsoft Office Suite**
+- 💬 Tanya saya tentang **Microsoft Office Suite**
 
-- 📫 How to reach me **naomierica17@gmail.com**
+- 📫 Cara menghubungi saya **naomierica17@gmail.com**
 
 - ⚡ Fun fact **saya lebih memilih untuk menyiksa fisik daripada harus menyiksa pikiran dan hati**
 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nawnao__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nawnao" height="30" width="40" /></a>
