@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there👋
+Perkenalan
+Saya Naomi Erica, seorang mahasiswi semester 2 di Politeknik Negeri Bandung. Berikut adalah sedikit informasi tentang saya:
 
-<!--
-**naomierica11/naomierica11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Beberapa teknologi yang saya kuasai meliputi:
+- Bahasa Pemrograman : C, C++, Java, Pyton
+- Microsoft Office Suite : Word, Excel, PowerPoint 
 
-Here are some ideas to get you started:
+Salah satu proyek menarik yang pernah saya kerjakan:
+- Game Tic Tac Toe : Mengembangkan game Tic Tac Toe menggunakan bahasa C di Dev C++. Proyek ini melibatkan pemahaman logika permainan, desain permainan, dan implementasi algoritma sederhana.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Anda dapat menghubungi saya melalui:
+- Email : naomierica17@gmail.com
+- Twitter : @nawnao
+- Instagram : @naomierica_
+
+Saya mencari bantuan dengan meningkatkan keterampilan pengembangan web saya, terutama dalam penggunaan framework modern.
