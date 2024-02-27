@@ -1,18 +1,27 @@
-### Hi there👋
-## Profil Naomi Erica
-Saya Naomi Erica, seorang mahasiswi semester 2 di Politeknik Negeri Bandung. Berikut adalah sedikit informasi tentang saya:
+<h1 align="center">Hi 👋, saya Naomi Erica</h1>
+<h3 align="center">Seorang mahasiswa Teknik Informatika di Politeknik Negeri Bandung</h3>
 
-## Beberapa teknologi yang saya kuasai meliputi:
-- Bahasa Pemrograman : C, C++, Java, Pyton
-- Microsoft Office Suite : Word, Excel, PowerPoint 
+- 🌱 I’m currently learning **Database**
 
-## Salah satu proyek menarik yang pernah saya kerjakan:
-- Game Tic Tac Toe : Mengembangkan game Tic Tac Toe menggunakan bahasa C di Dev C++. Proyek ini melibatkan pemahaman logika permainan, desain permainan, dan implementasi algoritma sederhana.
+- 👯 I’m looking to collaborate on **Game Development**
 
-## Anda dapat menghubungi saya melalui:
-- Email : naomierica17@gmail.com
-- Twitter : @nawnao
-- Instagram : @naomierica_
+- 🤝 I’m looking for help with **Framework and NLP**
 
-🚀Saya mencari bantuan dengan meningkatkan keterampilan pengembangan web saya, terutama dalam penggunaan framework modern.
->Jika anda ingin berbicara lebih lanjut atau berkolaborasi, jangan ragu untuk menghubungi saya melalui kontak yang telah tertera!!
+- 💬 Ask me about **Microsoft Office Suite**
+
+- 📫 How to reach me **naomierica17@gmail.com**
+
+- ⚡ Fun fact **saya lebih memilih untuk menyiksa fisik daripada harus menyiksa pikiran dan hati**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/nawnao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nawnao" height="30" width="40" /></a>
+<a href="https://instagram.com/naomierica_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naomierica_" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naomierica11&show_icons=true&locale=en&layout=compact" alt="naomierica11" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naomierica11&show_icons=true&locale=en" alt="naomierica11" /></p>
